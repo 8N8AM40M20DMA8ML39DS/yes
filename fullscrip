@@ -1,5 +1,5 @@
 repeat task.wait() until game:IsLoaded()
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/noob?token=GHSAT0AAAAAAB5MQQEG765AMHHJY3ULA5SQY57YP3A'))()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/meow?token=GHSAT0AAAAAAB5MQQEGMUPMAW3PMWRSVSB2Y57YPFA'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/noob'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/meow'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/XRoLLu/Rolly_Hub/main/open-source-trash-loader.exe.yeah'))()
