@@ -1,5 +1,5 @@
 repeat task.wait() until game:IsLoaded()
-local PlaceId = game.PlaceIdif PlaceId == 10446125875 then
+if game.PlaceId == 10446125875 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/noob'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/meow'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/XRoLLu/Rolly_Hub/main/open-source-trash-loader.exe.yeah'))()
