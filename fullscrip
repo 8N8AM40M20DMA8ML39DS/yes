@@ -1,6 +1,4 @@
-local Player = game:GetService('Players').LocalPlayer
-
-Player.CharacterAdded:Wait()
+wait (10)
 if game.PlaceId == 10446125875 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/noob'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/meow'))()
