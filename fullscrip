@@ -3,5 +3,6 @@ if game.PlaceId == 10446125875 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/noob'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/meow'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/VoxleHub/Voxle/main/Loader"))()
-https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/antiafk
+loadstring(game:HttpGet("https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/antiafk"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/notification"))()
 end
