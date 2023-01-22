@@ -1,6 +1,5 @@
 wait (10)
 if game.PlaceId == 10446125875 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/idk'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/meow'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/Rolly_Hub/main/open-source-trash-loader.exe.yeah"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/8N8AM40M20DMA8ML39DS/fruit/main/antiafk"))()
